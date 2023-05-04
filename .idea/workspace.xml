@@ -1,11 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4d7ac550-159d-4125-ace3-2e67ad815c77" name="Changes" comment="" />
+    <list default="true" id="4d7ac550-159d-4125-ace3-2e67ad815c77" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/MyCV/main/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyCV/MyCV/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/MyCV/MyCV/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyCV/MyCV/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/MyCV/MyCV/urls.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -14,6 +26,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2PKRHka9Wk7zxmImrh89fk4vylv" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -33,7 +48,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1683203701301</updated>
-      <workItem from="1683203703546" duration="124000" />
+      <workItem from="1683203703546" duration="3286000" />
     </task>
     <servers />
   </component>
